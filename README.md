@@ -27,6 +27,9 @@ public/js/services/bank-service.js
 
 Verify that it's working by running your script, `node server.js` and opening the page in the browser, e.g. http://localhost:8080
 
+
+*******************************
+
 ##Step 2: Set up back end
 
 * In server.js, create an endpoint that responds to a GET request on the `/interest_rate` route
