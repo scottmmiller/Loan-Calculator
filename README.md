@@ -36,6 +36,8 @@ Verify that it's working by running your script, `node server.js` and opening th
 * The interest_rate route should return a random number between 1 and 20, with two decimal places.
 * Test your endpoint using Postman to make sure it returns the interest rate in a JSON object
 
+*********************************
+
 ##Step 3: Connect front end to back end
 
 * Write the bank-service to include a method that returns a promise http call to retrieve the interest rate from your `/interest_rate` endpoint
